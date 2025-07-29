@@ -2,10 +2,9 @@
 
 - 👨‍💻 Programador - 18 anos  
 - 🌐 Foco atual de estudos:  
-  - 🟨 JavaScript  
-  - 🟦 TypeScript  
-  - ⚙️ Node.js  
-  - ⚛️ React.js  
+  - 🟨 JavaScript
+  - <img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/f7c9f37b-b7fd-40f2-9e6e-03d8c0282cb6" />
+  - ⚙️ Node.js   
   - 🐘 PostgreSQL (básico)  
   - 🔄 CRUD e consumo de APIs  
 - 💡 Sempre buscando evoluir no desenvolvimento web (frontend e backend)  
