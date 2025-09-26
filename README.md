@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tecnologias que eu utilizo</h2>
 
 ###
 
@@ -30,6 +30,10 @@
 
 ###
 
+<h3 align="left">Redes e contatos</h3>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/natan-de-souza-bb08102b2/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -42,5 +46,10 @@
 ###
 
 <p align="left">🚀 Projetos em Destaque</p>
+
+###
+- [**Sistema de Cadastro**]([https://github.com/seuusuario/sistema-cadastro](https://menu-pedidos.onrender.com/))  
+  CRUD completo com Node.js, Express e banco de dados.  
+  🔹 Funcionalidades: cadastro, edição, exclusão e listagem. 
 
 ###
