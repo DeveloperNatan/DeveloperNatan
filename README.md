@@ -48,7 +48,7 @@
 <p align="left">🚀 Projetos em Destaque</p>
 
 ###
-- [**Sistema de Cadastro**]([https://github.com/seuusuario/sistema-cadastro](https://menu-pedidos.onrender.com/))  
+- [**Sistema de Cadastro**](https://menu-pedidos.onrender.com)  
   CRUD completo com Node.js, Express e banco de dados.  
   🔹 Funcionalidades: cadastro, edição, exclusão e listagem. 
 
