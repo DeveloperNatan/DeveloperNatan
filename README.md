@@ -51,8 +51,6 @@
 
 [Menu Pedidos Online](https://menu-pedidos.onrender.com)
 
-###
-
-<p align="left">- Sistema web para uma lanchonete, permitindo que clientes façam pedidos online de forma rápida e prática. <br>Funcionalidades<br>  ✅ Listagem de produtos por categoria (Burguer, bebidas, combo e porções)<br>  ✅ CRUD completo<br>  ✅ Carrinho de compras<br>  ✅ Painel administrativo para gerenciamento de produtos<br>  ✅ Integração com banco de dados via Prisma (PostgreSQL)<br>  ✅ Pedido com redirecionamento para WhatsApp<br>  ✅ Estilização moderna com Tailwind CSS<br>  ✅ Responsivo: funciona em desktop e mobile</p>
+<p align="left">🍔 Sistema web para uma lanchonete, permitindo que clientes façam pedidos online de forma rápida e prática. <br>Funcionalidades<br>  ✅ Listagem de produtos por categoria (Burguer, bebidas, combo e porções)<br>  ✅ CRUD completo<br>  ✅ Carrinho de compras<br>  ✅ Painel administrativo para gerenciamento de produtos<br>  ✅ Integração com banco de dados via Prisma (PostgreSQL)<br>  ✅ Pedido com redirecionamento para WhatsApp<br>  ✅ Estilização moderna com Tailwind CSS<br>  ✅ Responsivo: funciona em desktop e mobile</p>
 
 ###
