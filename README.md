@@ -45,8 +45,16 @@
 <p align="left">🚀 Projetos em Destaque</p>
 
 ###
-- [**Sistema de Cadastro**](https://menu-pedidos.onrender.com)  
-  CRUD completo com Node.js, Express e banco de dados.  
-  🔹 Funcionalidades: cadastro, edição, exclusão e listagem. 
+- [**Menu Pedidos Online**](https://menu-pedidos.onrender.com)  
+  - Sistema web para uma lanchonete, permitindo que clientes façam pedidos online de forma rápida e prática. 
+  🚀 Funcionalidades
+  ✅ Listagem de produtos por categoria (Burguer, bebidas, combo e porções)
+  ✅ CRUD completo
+  ✅ Carrinho de compras
+  ✅ Painel administrativo para gerenciamento de produtos
+  ✅ Integração com banco de dados via Prisma (PostgreSQL)
+  ✅ Pedido com redirecionamento para WhatsApp
+  ✅ Estilização moderna com Tailwind CSS
+  ✅ Responsivo: funciona em desktop e mobile 
 
 ###
