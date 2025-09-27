@@ -49,7 +49,7 @@
 
 ###
 
-<p align="left">[Menu Pedidos Online](https://menu-pedidos.onrender.com)</p>
+[Menu Pedidos Online](https://menu-pedidos.onrender.com)
 
 ###
 
