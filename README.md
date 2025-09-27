@@ -38,6 +38,9 @@
   <a href="https://www.linkedin.com/in/natan-de-souza-bb08102b2/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <a href="mailto:natandesouza403@gmail.com?subject=Ol%C3%A1,+Natan+-+vindo+do+seu+GitHub&body=Encontrei+seu+perfil+no+GitHub+e+gostaria+de+falar+sobre..." target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -45,16 +48,11 @@
 <p align="left">🚀 Projetos em Destaque</p>
 
 ###
-- [**Menu Pedidos Online**](https://menu-pedidos.onrender.com)  
-  - Sistema web para uma lanchonete, permitindo que clientes façam pedidos online de forma rápida e prática. 
-  🚀 Funcionalidades
-  ✅ Listagem de produtos por categoria (Burguer, bebidas, combo e porções)
-  ✅ CRUD completo
-  ✅ Carrinho de compras
-  ✅ Painel administrativo para gerenciamento de produtos
-  ✅ Integração com banco de dados via Prisma (PostgreSQL)
-  ✅ Pedido com redirecionamento para WhatsApp
-  ✅ Estilização moderna com Tailwind CSS
-  ✅ Responsivo: funciona em desktop e mobile 
+
+<p align="left">[Menu Pedidos Online](https://menu-pedidos.onrender.com)</p>
+
+###
+
+<p align="left">- Sistema web para uma lanchonete, permitindo que clientes façam pedidos online de forma rápida e prática. <br>  🚀 Funcionalidades<br>  ✅ Listagem de produtos por categoria (Burguer, bebidas, combo e porções)<br>  ✅ CRUD completo<br>  ✅ Carrinho de compras<br>  ✅ Painel administrativo para gerenciamento de produtos<br>  ✅ Integração com banco de dados via Prisma (PostgreSQL)<br>  ✅ Pedido com redirecionamento para WhatsApp<br>  ✅ Estilização moderna com Tailwind CSS<br>  ✅ Responsivo: funciona em desktop e mobile</p>
 
 ###
