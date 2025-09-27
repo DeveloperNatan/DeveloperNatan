@@ -38,9 +38,6 @@
   <a href="https://www.linkedin.com/in/natan-de-souza-bb08102b2/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:natandesouza403@gmail.com?subject=Ol%C3%A1,+Natan-vindo+do+seu+GitHub&body=Encontrei+seu+perfil+no+GitHub+e+gostaria+de+falar+sobre..." target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
