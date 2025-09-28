@@ -54,3 +54,7 @@
 <p align="left">Sistema web para lanchonete, permitindo que clientes façam pedidos online de forma rápida e prática. <br>Funcionalidades: <br>  ✅ Listagem de produtos por categoria (Burguer, bebidas, combo e porções)<br>  ✅ CRUD completo<br>  ✅ Carrinho de compras<br>  ✅ Painel administrativo para gerenciamento de produtos<br>  ✅ Integração com banco de dados via Prisma (PostgreSQL)<br>  ✅ Pedido com redirecionamento para WhatsApp<br>  ✅ Estilização moderna com Tailwind CSS<br>  ✅ Responsivo: funciona em desktop e mobile</p>
 
 ###
+
+🗺️[Snipe PA](https://mapa-site-novo.onrender.com)
+
+<p align="left">Sistema web para lanchonete, permitindo que clientes façam pedidos online de forma rápida e prática. <br>Funcionalidades: <br>  📌 Cadastro de máquinas e locais através de formulário integrado. <br>  🗺️ Mapa físico para visualizar os pontos de atendimento (PA).<br>  📚 Histórico atrelado ao local (e não à máquina).<br>  📊 Analytics. <br></p>
