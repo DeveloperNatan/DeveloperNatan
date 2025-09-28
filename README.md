@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 💻 Programador Full-Stack Júnior  <br>- 🎓 18 anos  <br>- 🚀 Experiência em projetos com HTML, CSS, JavaScript, Node.js e C#<br>- 🛠️ Atuação com CRUDs, consumo e criação de APIs  <br>- 🗄️ Conhecimentos básicos em bancos de dados</p>
+<p align="left">- 💻 Programador Full-Stack Júnior  <br>- 👤 18 anos  <br>- 🚀 Experiência em projetos com HTML, CSS, JavaScript, Node.js e C#<br>- 🛠️ Atuação com CRUDs, consumo e criação de APIs  <br>- 🗄️ Conhecimentos básicos em bancos de dados</p>
 
 ###
 
