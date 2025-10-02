@@ -1,4 +1,4 @@
-<h1 align="left">Natan de Souza | Full-Stack Developer</h1>
+<h1 align="left">Natan de Souza | Desenvolvedor Júnior </h1>
 
 ###
 
