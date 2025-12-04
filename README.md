@@ -53,6 +53,8 @@
 
 ### ⌚ Ponto Fácil – Frontend
 
+<a href="https://ponto-facil-gilt.vercel.app" target="_blank">Acessar aplicação</a>
+
 Interface web do sistema Ponto Fácil, responsável pelo registro e acompanhamento de ponto dos funcionários.  
 O frontend consome uma API .NET (TimeRecord) para autenticação, cadastro de colaboradores e gerenciamento das marcações de ponto.
 
