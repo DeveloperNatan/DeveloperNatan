@@ -1,64 +1,96 @@
-<h1 align="left">Natan de Souza | Desenvolvedor Júnior </h1>
+<h1 align="left">Natan de Souza | Desenvolvedor Júnior</h1>
 
-###
+---
 
 <h2 align="left">Sobre mim</h2>
 
-###
+<p align="left">
+  💻 Desenvolvedor Full-Stack Júnior<br>
+  👤 18 anos<br>
+  🚀 Experiência em projetos com HTML, CSS, JavaScript, TypeScript, Node.js e C#<br>
+  🛠️ Atuação com CRUDs, consumo e criação de APIs REST<br>
+  🗄️ Conhecimentos em bancos de dados relacionais (PostgreSQL)
+</p>
 
-<p align="left">- 💻 Programador Full-Stack Júnior  <br>- 👤 18 anos  <br>- 🚀 Experiência em projetos com HTML, CSS, JavaScript, Node.js e C#<br>- 🛠️ Atuação com CRUDs, consumo e criação de APIs  <br>- 🗄️ Conhecimentos básicos em bancos de dados</p>
+---
 
-###
-
-<h2 align="left">Tecnologias que eu utilizo</h2>
-
-###
+<h2 align="left">Tecnologias que utilizo</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
-###
+---
 
 <h3 align="left">Redes e contatos</h3>
 
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/natan-de-souza-bb08102b2/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:natandesouza403@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
 
-###
+---
 
-<p align="left">🚀 Projetos em Destaque</p>
+<h2 align="left">🚀 Projetos em destaque</h2>
 
-###
+### ⌚ Ponto Fácil – Frontend
 
-🍔 [Menu Pedidos Online](https://menu-pedidos.onrender.com)
+Interface web do sistema Ponto Fácil, responsável pelo registro e acompanhamento de ponto dos funcionários.  
+O frontend consome uma API .NET (TimeRecord) para autenticação, cadastro de colaboradores e gerenciamento das marcações de ponto.
 
-<p align="left">Sistema web para lanchonete, permitindo que clientes façam pedidos online de forma rápida e prática. <br>Funcionalidades: <br>  ✅ Listagem de produtos por categoria (Burguer, bebidas, combo e porções)<br>  ✅ CRUD completo<br>  ✅ Carrinho de compras<br>  ✅ Painel administrativo para gerenciamento de produtos<br>  ✅ Integração com banco de dados via Prisma (PostgreSQL)<br>  ✅ Pedido com redirecionamento para WhatsApp<br>  ✅ Estilização moderna com Tailwind CSS<br>  ✅ Responsivo: funciona em desktop e mobile</p>
+**Funcionalidades principais:**
+- Autenticação de usuários com NextAuth (fluxo de login protegido)
+- Painel do colaborador com dados pessoais (nome, cargo etc.)
+- Tela de registro de ponto (bater ponto) integrada ao backend
+- Página de histórico de marcações de ponto por dia
+- Rotas privadas sob `/home` (dashboard, registro, histórico)
 
-###
+---
 
-🗺️[Snipe PA](https://mapa-site-novo.onrender.com)
+### 🍔 Menu Pedidos Online
 
-<p align="left">Projeto monolítico desenvolvido para atender uma demanda real da empresa: permitir a localização de máquinas e seus locais físicos, com histórico de movimentações e análises de troca. <br>Funcionalidades: <br>  📌 Cadastro de máquinas e locais através de formulário integrado. <br>  🗺️ Mapa físico para visualizar os pontos de atendimento (PA).<br>  📚 Histórico atrelado ao local (e não à máquina).<br>  📊 Analytics. <br></p>
+<a href="https://menu-pedidos.onrender.com" target="_blank">Acessar aplicação</a>
+
+Sistema web para lanchonete, permitindo que clientes façam pedidos online de forma rápida e prática.
+
+**Funcionalidades:**
+- Listagem de produtos por categoria (burguers, bebidas, combos e porções)
+- CRUD completo de produtos
+- Carrinho de compras
+- Painel administrativo para gerenciamento de produtos
+- Integração com banco de dados via Prisma (PostgreSQL)
+- Geração de pedido com redirecionamento para WhatsApp
+- Estilização moderna com Tailwind CSS
+- Layout responsivo (desktop e mobile)
+
+---
+
+### 🗺️ Snipe PA
+
+<a href="https://mapa-site-novo.onrender.com" target="_blank">Acessar aplicação</a>
+
+Projeto monolítico desenvolvido para atender uma demanda real da empresa: localizar máquinas e seus locais físicos, com histórico de movimentações e análises de troca.
+
+**Funcionalidades:**
+- Cadastro de máquinas e locais através de formulários
+- Mapa físico para visualizar pontos de atendimento (PAs)
+- Histórico atrelado ao local (e não à máquina)
+- Visão analítica para acompanhamento das movimentações
