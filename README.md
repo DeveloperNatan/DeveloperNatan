@@ -7,9 +7,9 @@
 <p align="left">
   💻 Desenvolvedor Full-Stack Júnior<br>
   👤 18 anos<br>
-  🚀 Experiência em projetos com HTML, CSS, JavaScript, TypeScript, Node.js e C#<br>
+  🚀 Experiência em projetos com .NET/C#, TypeScript,Node.js, JavaScript e React<br>
   🛠️ Atuação com CRUDs, consumo e criação de APIs REST<br>
-  🗄️ Conhecimentos em bancos de dados relacionais (PostgreSQL)
+  🗄️ Conhecimentos em bancos de dados relacionais (PostgreSQL) com EF core e PrismaORM
 </p>
 
 ---
