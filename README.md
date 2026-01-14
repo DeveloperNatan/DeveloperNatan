@@ -5,7 +5,7 @@
 <h2 align="left">Sobre mim</h2>
 
 <p align="left">
-  🚀 Experiência em projetos com .NET/C#, TypeScript,Node.js, JavaScript e React<br>
+  🚀 Experiência em projetos com .NET/C#, TypeScript, Node.js, JavaScript e React<br>
   🛠️ Atuação com CRUDs, consumo e criação de APIs REST<br>
   🗄️ Conhecimentos em bancos de dados relacionais (PostgreSQL) com EF core e PrismaORM
 </p>
