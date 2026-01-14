@@ -55,7 +55,7 @@
 
 <h2 align="left">🚀 Projetos em destaque</h2>
 
-### ⌚ Ponto Fácil – Frontend
+### ⌚ Ponto Fácil
 
 <a href="https://ponto-facil-gilt.vercel.app" target="_blank">Acessar aplicação</a>
 
