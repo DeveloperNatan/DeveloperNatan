@@ -58,7 +58,6 @@
 - Boas práticas de arquitetura e organização de código
 - Testes automatizados (unit e integração)
 - Containerização com Docker e automação com CI/CD
-- Deploy e escalabilidade (Kubernetes/Azure no roadmap)
 
 <b>Links:</b>
 - Repositório: <i>(em breve)</i>
