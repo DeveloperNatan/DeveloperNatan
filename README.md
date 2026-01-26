@@ -49,7 +49,7 @@
 
 <h2 align="left">🚀 Projetos em destaque</h2>
 
-### ⌚ TimeRecord API (Ponto Fácil — Backend)
+### ⌚ TimeRecord API (ASP.NET CORE)
 
 <i>Projeto principal (foco atual):</i> API para registro e gerenciamento de marcações de ponto.
 
