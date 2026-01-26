@@ -6,7 +6,7 @@
 
 <p align="left">
   🚀 Focado em <b>backend .NET</b> (ASP.NET Core), com experiência prática em APIs REST e CRUD<br>
-  🛠️ Evoluindo meu stack com segurança (JWT), testes automatizados e DevOps (Docker, CI/CD e Kubernetes)<br>
+  🛠️ Evoluindo meu stack com segurança (JWT), testes automatizados e DevOps (Docker e CI/CD)<br>
   🗄️ Bancos relacionais (PostgreSQL) com EF Core e PrismaORM (experiência em projetos anteriores)
 </p>
 
