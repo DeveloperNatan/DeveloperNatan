@@ -60,9 +60,8 @@
 - Containerização com Docker e automação com CI/CD
 
 <b>Links:</b>
-- Repositório: <i>(em breve)</i>
-- Docs/Swagger: <i>(em breve)</i>
-- Deploy: <i>(em breve)</i>
+- Repositório: <i>https://github.com/DeveloperNatan/TimeRecord</i>
+- Deploy: <i>https://timerecord-api.purplepebble-537f57d1.brazilsouth.azurecontainerapps.io/swagger/index.html</i>
 
 ---
 
