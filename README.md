@@ -1,4 +1,4 @@
-<h1 align="left">Natan de Souza | Desenvolvedor Júnior (.NET)</h1>
+<h1 align="left">Natan de Souza | Developer C#/.NET </h1>
 
 ---
 
@@ -67,20 +67,3 @@ Projeto monolítico desenvolvido para atender uma demanda real da empresa: local
 - Histórico atrelado ao local (e não à máquina)
 - Visão analítica para acompanhamento das movimentações
 
----
-
-### 🍔 Menu Pedidos Online
-
-<a href="https://menu-pedidos.onrender.com" target="_blank">Acessar aplicação</a>
-
-Sistema web para lanchonete, permitindo que clientes façam pedidos online de forma rápida e prática.
-
-<b>Funcionalidades:</b>
-- Listagem de produtos por categoria
-- CRUD completo de produtos
-- Carrinho de compras
-- Painel administrativo para gerenciamento
-- Integração com PostgreSQL via Prisma
-- Geração de pedido com redirecionamento para WhatsApp
-- Layout responsivo (desktop e mobile)
-</div>
