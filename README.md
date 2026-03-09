@@ -51,7 +51,7 @@
 
 <b>Links:</b>
 - Repositório: <i>https://github.com/DeveloperNatan/TimeRecord</i>
-- Deploy: <a href="https://timerecord-api.purplepebble-537f57d1.brazilsouth.azurecontainerapps.io/swagger/index.html">https://timerecord-api.azure/swagger/index.html</a>
+- Deploy: <a href="http://timerecord.runasp.net/swagger/index.html">http://timerecord.runasp.net/swagger/index.html</a>
 
 ---
 
