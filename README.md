@@ -1,6 +1,4 @@
-###
-
-<h1 align="center">Natan de Souza - Developer C#/.NET and Angular</h1>
+<h1 align="left">Natan de Souza - Developer C#/.NET and Angular</h1>
 
 ###
 
@@ -34,13 +32,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
 
 ###
 
-<p align="left">⌚ TimeRecord API (ASP.NET Core)<br><br>API para registro e gerenciamento de ponto, desenvolvida com foco em boas práticas de arquitetura e organização de código backend.<br><br>Destaques: autenticação e autorização via JWT, containerização com Docker e pipeline de CI/CD.<br><br>    Repositório: https://github.com/DeveloperNatan/TimeRecord<br><br>    Deploy: http://timerecord.runasp.net/swagger/index.html<br><br>🗺️ Snipe PA<br><br>Ferramenta interna desenvolvida para atender uma demanda real da empresa — rastreia a localização física de máquinas com histórico de movimentações e visão analítica.<br><br>Funcionalidades: cadastro de máquinas e locais, mapa físico interativo para visualização dos PAs, histórico atrelado ao local e dashboard analítico para acompanhamento das movimentações.<br><br>    Acesse: https://mapa-site-novo.onrender.com</p>
+<p align="left">🛠 My projects</p>
+
+###
+
+<p align="left">TimeRecord API<br><br>API de registro e gerenciamento de ponto desenvolvida com ASP.NET Core, com foco em boas práticas de arquitetura backend.<br><br>Destaques<br><br>    Autenticação e autorização via JWT<br><br>    Containerização com Docker<br><br>    Pipeline de CI/CD<br><br>Repositório: github.com/DeveloperNatan/TimeRecord<br>Snipe PA<br><br>Ferramenta interna para rastreamento da localização física de máquinas, desenvolvida para atender uma demanda real da empresa.<br><br>Funcionalidades<br><br>    Cadastro de máquinas e locais<br><br>    Mapa físico interativo para visualização dos PAs<br><br>    Histórico de movimentações atrelado ao local<br><br>    Dashboard analítico para acompanhamento das movimentações<br><br>Repositório: github.com/DeveloperNatan/mapa-site-novo</p>
 
 ###
