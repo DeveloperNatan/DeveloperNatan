@@ -1,4 +1,4 @@
-<h1 align="left">Natan de Souza - Developer C#/.NET and Angular</h1>
+<h1 align="left">Natan de Souza - DevOps | Software Developer </h1>
 
 ###
 
