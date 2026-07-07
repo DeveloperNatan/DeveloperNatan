@@ -1,4 +1,4 @@
-<h1 align="left">Natan de Souza - DevOps | Software Developer </h1>
+<h1 align="left">Natan de Souza - Software Developer </h1>
 
 ###
 
