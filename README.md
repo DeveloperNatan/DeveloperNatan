@@ -1,4 +1,4 @@
-<h1 align="left">Natan de Souza - Desenvolvedor Software </h1>
+<h1 align="left">Natan de Souza - Desenvolvedor de Software </h1>
 
 ###
 
